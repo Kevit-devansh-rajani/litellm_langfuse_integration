@@ -1,4 +1,4 @@
-# LiteLLM Learning Project
+# LiteLLM + Langfuse Learning Project
 
 This project demonstrates how to use `litellm` to interact with different large language models (LLMs) like Cohere and OpenAI, and how to use `langfuse` for tracing and observability.
 
