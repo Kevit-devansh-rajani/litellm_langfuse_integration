@@ -20,7 +20,7 @@ This project demonstrates how to use `litellm` to interact with different large 
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Kevit-devansh-rajani/litellm_langfuse_integration.git
    cd litellm-learning
    ```
 
